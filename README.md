@@ -1,4 +1,4 @@
-# StartUp_Tech_Internship
+# Start_Tech_Internship
 ### Part 1
 ### As a data analyst intern, a dataset about the Food Store is provided, which the following operation are performed on it :
 ### 1. A pivot table was drawn to get the different types of outlets and their counts 
