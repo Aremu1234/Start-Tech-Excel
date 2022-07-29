@@ -6,3 +6,7 @@
 ### 3. A pivot table was drawn to find out the total sales of different item types in different outlet types
 ### 4. Low-fat product was filter out (removed) from the third pivot table, filter out (remove) low-fat products
 ### 5. Slicers was add for item fat and item type in the last pivot table
+
+
+### Part II
+### The dataset named Financial Dashboard contain P & L profit and loss statement, where a dashboard was created from the breakdown of the activities made by the company e.g Expenses breakdown
